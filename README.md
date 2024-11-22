@@ -1,8 +1,7 @@
-![github Banner](https://github.com/user-attachments/assets/43bdd233-9ef2-4c26-81a8-ce2aea574e6b)
+![github Art Banner](https://github.com/user-attachments/assets/125a184a-f596-4aa1-b579-deb22a319937)
 - 👋 Hi, I’m @survesufiyan
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on collage project
 - 📫 How to reach me sufiyansurve9@gmail.com
 
 <!---
