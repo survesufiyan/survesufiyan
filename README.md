@@ -1,6 +1,6 @@
 ![github Art Banner](https://github.com/user-attachments/assets/125a184a-f596-4aa1-b579-deb22a319937)
 # 💫 About Me:
-👋 Hi, I’m @survesufiyan<br>👀 I’m interested in Backend Development<br>🌱 I’m currently learning Flutter<br>📫 How to reach me sufiyansurve9@gmail.com<br>
+👋 Hi, I’m @survesufiyan<br>👀 I’m interested in App Developer<br>🌱 I’m currently learning Flutter<br>📫 How to reach me sufiyansurve9@gmail.com<br>
 
 
 ## 🌐 Socials:
